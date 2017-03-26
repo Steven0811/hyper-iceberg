@@ -1,0 +1,23 @@
+{
+  "name": "hyper-iceberg",
+  "version": "0.0.1",
+  "description": "Beautiful light theme for Hyper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven0811/hyper-iceberg.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "term",
+    "terminal",
+    "hyperterm"
+  ],
+  "author": "Steven Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Steven0811/hyper-iceberg/issues"
+  },
+  "homepage": "https://github.com/Steven0811/hyper-iceberg#readme"
+}
