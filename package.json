@@ -1,7 +1,7 @@
 {
   "name": "hyper-iceberg",
   "version": "0.0.1",
-  "description": "Beautiful light theme for Hyper",
+  "description": "A beautiful white theme for Hyper terminal",
   "main": "index.js",
   "repository": {
     "type": "git",

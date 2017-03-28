@@ -1,31 +1,31 @@
 'use strict';
 
 // main color
-const mainColor = '#4af7cf';
+const mainColor = '#60f8eb';
 const backgroundColor = '#FDFDFD';
-const foregroundColor = '#021a1d';
+const foregroundColor = '#021923';
 
 const colors = {
 
   // Colors
-  black: '#000000',
+  black: foregroundColor,
   white: '#FFFFFF',
-  red: '#FA2D48',
-  green: '#11CB80',
+  red: '#dd2e37',
+  green: '#07c679',
   blue: '#1B306E',
-  cyan: '#2ac7d8',
-  yellow: '#FFBF01',
-  magenta: '#6530CF',
-  white: '#d0e3e5',
+  cyan: '#23c1c8',
+  yellow: '#ffd200',
+  magenta: '#5821c7',
+  white: '#c5e1df',
 
   // Light Colors
-  lightBlack: '#000000',
-  lightRed: '#FA2D48',
-  lightGreen: '#11CB80',
-  lightYellow: '#FFBF01',
+  lightBlack: foregroundColor,
+  lightRed: '#dd2e37',
+  lightGreen: '#07c679',
+  lightYellow: '#ffd200',
   lightBlue: '#29467A',
-  lightMagenta: '#6530CF',
-  lightCyan: '#2ac7d8',
+  lightMagenta: '#5821c7',
+  lightCyan: '#23c1c8',
   lightWhite: '#FFFFFF'
 };
 
