@@ -1,6 +1,8 @@
 # Hyper Iceberg
 
+
 A beautiful white theme for Hyper terminal.
+
 
 ---
 
@@ -32,7 +34,7 @@ Iceberg theme also available custom icon, if you like it, download different siz
 
 ### Contributing
 
- welcome to contribute.
+ Welcome to contribute.
 
 ### Related
 
