@@ -32,7 +32,7 @@ hyper-polarbear theme also available custom icon, if you like it, download diffe
 
 ### Contributing
 
- Welcome to contribute.🐻
+🐻Welcome to contribute.
  
 ### Related
 
