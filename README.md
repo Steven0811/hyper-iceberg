@@ -1,4 +1,4 @@
-# Hyper Iceberg
+# Hyper White Iceberg
 
 
 A beautiful white theme for Hyper terminal.
@@ -16,7 +16,7 @@ A beautiful white theme for Hyper terminal.
 
   ```javascript
   plugins: [
-    'hyper-iceberg'
+    'hyper-white-iceberg'
   ]
   ```
 3. Hyper will automatically reload or use (`Cmd + Shift + R`).
@@ -30,7 +30,7 @@ Iceberg theme also available custom icon, if you like it, download different siz
 
 ![64x64](/icon/Hyper-icon-64.png?raw=true "Iceberg theme screenshot") 64x64
 
-- [120x120 or Large](https://github.com/Steven0811/hyper-iceberg/tree/master/icon)
+- [120x120 or Large](https://github.com/Steven0811/hyper-white-iceberg/tree/master/icon)
 
 ### Contributing
 
