@@ -1,11 +1,11 @@
 {
-  "name": "hyper-white-iceberg",
+  "name": "hyper-polarbear",
   "version": "0.0.1",
   "description": "A beautiful white theme for Hyper terminal",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Steven0811/hyper-white-iceberg.git"
+    "url": "git+https://github.com/Steven0811/hyper-polarbear.git"
   },
   "keywords": [
     "hyper",
@@ -17,7 +17,7 @@
   "author": "Steven Ho",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Steven0811/hyper-white-iceberg/issues"
+    "url": "https://github.com/Steven0811/hyper-polarbear/issues"
   },
-  "homepage": "https://github.com/Steven0811/hyper-white-iceberg#readme"
+  "homepage": "https://github.com/Steven0811/hyper-polarbear#readme"
 }
