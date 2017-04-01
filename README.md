@@ -1,6 +1,6 @@
-# ❤️Lovely white theme "Polar bear"
+# ❤️ Lovely white theme "Polar Bear"
 
-A beautiful white theme for Hyper terminal.
+A beautiful white theme for Hyper.
 
 ---
 
@@ -19,7 +19,7 @@ A beautiful white theme for Hyper terminal.
   ```
 3. Hyper will automatically reload or use (`Cmd + Shift + R`).
 
-4. 🎉Enjoy it!
+4. 🎉 Enjoy it!
 
 ### Custom icon
 
@@ -32,7 +32,7 @@ hyper-polarbear theme also available custom icon, if you like it, download diffe
 
 ### Contributing
 
-🐻Welcome to contribute.
+🐻 Welcome to contribute.
  
 ### Related
 
