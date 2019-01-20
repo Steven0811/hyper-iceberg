@@ -12,11 +12,10 @@ A beautiful white theme for Hyper.
 
 2. Add `hyper-polarbear`to the plugins list, e.g:
 
-  ```javascript
-  plugins: [
-    'hyper-polarbear'
-  ]
-  ```
+```javascript
+plugins: ["hyper-polarbear"];
+```
+
 3. Hyper will automatically reload or use (`Cmd + Shift + R`).
 
 4. 🎉 Enjoy it!
@@ -25,19 +24,18 @@ A beautiful white theme for Hyper.
 
 hyper-polarbear theme also available custom icon, if you like it, download different size below.
 
-
 ![64x64](/icon/Hyper-icon-64.png?raw=true "hyper-polarbear theme screenshot") 64x64
 
-- [120x120 or Large](https://github.com/Steven0811/hyper-polarbear/tree/master/icon)
+- [256x256 or Large](https://github.com/Steven0811/hyper-polarbear/tree/master/icon)
 
 ### Contributing
 
 🐻 Welcome to contribute.
- 
+
 ### Related
 
 - [Hyper](https://hyper.is/)
 
 ### License
 
-MIT @ [Steven Ho](https://www.facebook.com/stevenho0811)
+MIT @ [Steven Ho](https://stevenho.info)
