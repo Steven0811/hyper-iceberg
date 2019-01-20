@@ -1,6 +1,6 @@
-# ❤️ Lovely white theme "Polar Bear"
+# ❄️ "Polar Bear (a Hyper Theme)"
 
-A beautiful white theme for Hyper.
+A beautiful white theme for Hyper terminal.
 
 ---
 
@@ -30,7 +30,7 @@ hyper-polarbear theme also available custom icon, if you like it, download diffe
 
 ### Contributing
 
-🐻 Welcome to contribute.
+🥶 Welcome to contribute.
 
 ### Related
 
