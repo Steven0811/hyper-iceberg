@@ -1,4 +1,4 @@
-# ❄️ Polar Bear (a Hyper terminal Theme)
+# ❄️ Polar Bear (a hyper terminal theme)
 
 beautiful white theme for Hyper terminal.
 
